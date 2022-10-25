@@ -1,3 +1,6 @@
+##以下オリジナルの転記
+###https://github.com/poppinace/indexnet_matting
+
 # IndexNet Matting
 
 <p align="center">
